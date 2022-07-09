@@ -13,33 +13,12 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+MUST ADD
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine with SteamOS](https://autumn.revolt.chat/attachments/lnGbllAx9i336vcZYPGqdnGk3W5xd8a8soaMj-3oaU/RosepineSteamdeck.png)
 
 ## Thanks to
 
-- [CarlTheObeseCat](https://github.com/<username>)
-
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [CarlTheObeseCat](https://github.com/CarlTheObeseCat)
